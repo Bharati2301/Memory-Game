@@ -5,7 +5,9 @@ This game is a remake of the classic Memory game, also known as matching cards g
 ## ALGORITHM
 The main concept of AI behind this game is the use of Knowledge Base. AI uses Knowledge Base to choose cards which increases the chances of winning for AI.
 
-![Alt Text](https://media.giphy.com/media/xT1XGZjmprZ5i6Q8M0/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xT1XGZjmprZ5i6Q8M0/giphy.gif">
+</p>
 
 ### HOW TO PLAY!
 
